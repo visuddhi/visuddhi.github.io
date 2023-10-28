@@ -3,7 +3,7 @@
 title: Hanzhang Qin
 
 # Name pronunciation (optional)
-name_pronunciation: 覃含章
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Hanzhang
