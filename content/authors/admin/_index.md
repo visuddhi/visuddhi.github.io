@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 覃含章
+title: Hanzhang Qin
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 覃含章
 
 # Full name (for SEO)
 first_name: Hanzhang
@@ -31,7 +31,7 @@ bio: In the broadest sense, I do research regarding how to bridge operations res
 interests:
   - Supply Chain Analytics
   - Reinforcement Learning
-  - Transportation and Logistics Systems
+  - Transportation Science and Logistics
 
 # Education to show in About widget
 education:
