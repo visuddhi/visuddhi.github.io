@@ -71,7 +71,6 @@ sections:
           date_end: ''
           description: |2-
               Affliated with:
-
               * Department of Industrial Systems Engineering and Management
               * Institute of Operations Research and Analytics
         - title: Postdoctoral Scientist
