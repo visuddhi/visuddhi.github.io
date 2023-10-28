@@ -69,10 +69,7 @@ sections:
           location: Singapore
           date_start: '2023-07'
           date_end: ''
-          description: |2-
-              Affliated with:
-              * Department of Industrial Systems Engineering and Management
-              * Institute of Operations Research and Analytics
+          description: Affliated with Department of Industrial Systems Engineering and Management & Institute of Operations Research and Analytics.
         - title: Postdoctoral Scientist
           company: Amazon
           company_url: ''
