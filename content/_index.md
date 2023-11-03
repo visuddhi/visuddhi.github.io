@@ -65,7 +65,7 @@ sections:
         - title: Assistant Professor
           company: National University of Singapore
           company_url: ''
-          company_logo: org-gc
+          company_logo: ''
           location: Singapore
           date_start: '2023-07'
           date_end: ''
@@ -73,7 +73,7 @@ sections:
         - title: Postdoctoral Scientist
           company: Amazon
           company_url: ''
-          company_logo: org-x
+          company_logo: ''
           location: New York
           date_start: '2022-07'
           date_end: '2023-07'
