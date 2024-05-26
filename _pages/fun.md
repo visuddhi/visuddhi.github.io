@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Some Fun Stuff
+Some Useful Resources
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
