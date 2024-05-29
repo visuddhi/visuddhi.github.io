@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I am currently an Assistant Professor in the [Department of Industrial Systems Engineering and Management (ISEM)](https://cde.nus.edu.sg/isem/) and the [Institute for Operations Research and Analytics (IORA)](https://iora.nus.edu.sg/) at [National University of Singapore (NUS)](https://nus.edu.sg/).
+Greetings! I am currently an Assistant Professor in the [Department of Industrial Systems Engineering and Management (ISEM)](https://cde.nus.edu.sg/isem/), the [Institute for Operations Research and Analytics (IORA)](https://iora.nus.edu.sg/) and the [AI Institute](https://ai.nus.edu.sg/) at [National University of Singapore (NUS)](https://nus.edu.sg/).
 
 Prior to joining NUS, I spent one year at [Amazon SCOT](https://www.amazon.science/tag/supply-chain-optimization-technologies) as a postdoctoral scientist -- here is the [Amazon coverage](https://www.amazon.science/working-at-amazon/amazon-postdoctoral-scientists-apply-operations-research-to-real-world-problems) of what I did. I obtained my [PhD in Computational Science and Engineering](https://cse.mit.edu/programs/phd/) and two master's in [EECS](https://www.eecs.mit.edu/academics/graduate-programs/degree-programs/) and [Transportation](https://catalog.mit.edu/interdisciplinary/graduate-programs/transportation/) from [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/), and two bachelor's in [Industrial Engineering](https://www.ie.tsinghua.edu.cn/eng/Education/Undergraduate_Program.htm) and [Mathematics](https://www.math.tsinghua.edu.cn/jyjx/bksjx/zyjs.htm#) from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm).
 
