@@ -4,6 +4,7 @@ title: "Students"
 permalink: /student/
 author_profile: true
 ---
+I have had the pleasure of working with the following brilliant talents.
 
 Current
 ======
