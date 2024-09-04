@@ -22,7 +22,8 @@ Current
 <!-- * RAs
   * Zhuoru Li, undergrad at Fudan School of Mathematical Sciences
   * Yuhang Lu, master's student at NUS ISEM
-  * Sihan Wang, undergrad at USTC School of Mathematical Sciences -->
+  * Sihan Wang, undergrad at USTC School of Mathematical Sciences
+  * Congcong Zeng, BA in Finance (Peking U)/MS in Business Analysis (HKU) -->
 Past
 ======
 * Tianyu Li, undergrad at Renming University (Math), summer intern (2023)
