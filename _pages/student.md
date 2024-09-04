@@ -18,8 +18,8 @@ Current
   * Shuang Jin, PhD student at NJU Business School
   * Yue Lyu, PhD student at UPC School of Economics and Management
   * Zheng Tan, PhD student at USTC Dept. of Management Science
-  * Jinlong Zhou, PhD student at CSU School of Transportation Engineering -->
-<!-- * RAs
+  * Jinlong Zhou, PhD student at CSU School of Transportation Engineering
+* RAs
   * Zhuoru Li, undergrad at Fudan School of Mathematical Sciences
   * Yuhang Lu, master's student at NUS ISEM
   * Sihan Wang, undergrad at USTC School of Mathematical Sciences
