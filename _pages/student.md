@@ -18,7 +18,7 @@ Current
 
 Past
 ======
-* Tianyu Li, undergrad at Renming University (Math), summer intern (2023)
+* Terrill Li, undergrad at Renming University, summer intern (2023)
   * Placement: PhD student, Purdue Krannert
-* Wenxuan Liu, undergrad at Tsinghua University (IE), summer intern (2023)
+* Wenxuan Liu, undergrad at Tsinghua University, summer intern (2023)
   * Placement: PhD student, Columbia IEOR
