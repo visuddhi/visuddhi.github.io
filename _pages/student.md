@@ -22,3 +22,5 @@ Past
   * Placement: PhD student, Purdue Krannert
 * Wenxuan Liu, undergrad at Tsinghua University, summer intern (2023)
   * Placement: PhD student, Columbia IEOR
+* Haichen Hu, undergrad at Fudan University, summer intern (2022)
+  * Placement: PhD student, MIT CSE
