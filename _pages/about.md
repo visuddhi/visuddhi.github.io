@@ -20,7 +20,7 @@ Preprints and Working Papers
 * Liu, J., Qin, H. and Chou, M.C.. Pricing Analytics with Shape-Restricted Demands. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4643942)
   * Under revision at _Operations Research_.
   * [Best Paper Award (Third Place)](https://iora.nus.edu.sg/news-p/phd-student-liu-jingren-asst-prof-qin-hanzhang-place-3rd-at-4th-national-conference-on-supply-chain-and-operation-management-shanghai/) at the 4th National Conference on Supply Chain and Operation Management.
-* Fan, X., Chen, B., Lennon Olsen, T., Pinedo, M., Qin, H. and Zhou, Z.. Don’t Follow RL Blindly: Lower Sample Complexity of Learning Optimal Inventory Control Policies with Fixed Ordering Costs. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4828001)
+* Fan, X., Chen, B., Lennon Olsen, M., Qin, H. and Zhou, Z.. Don’t Follow RL Blindly: Lower Sample Complexity of Learning Optimal Inventory Control Policies with Fixed Ordering Costs. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4828001)
 * Hu, H., Qin, H. and Simchi-Levi, D.. Solving Large-Scale Vehicle Routing Problems with Unsplit Demands via Limited Information. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4271787)
 
 Selected Journal Publications
