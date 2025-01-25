@@ -15,8 +15,8 @@ Preprints and Working Papers
 ======
 * Qin, H., Simchi-Levi, D. and Zhu, R.. Sailing through the Dark: Provably Sample-Efficient Inventory Control. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4652347)
   * Under revision at _Management Science_.
-* Zhang, X., Qin, H. and Chou, M.C.. Online Resource Allocation with Non-Stationary Customers. [(Arxiv)](https://arxiv.org/pdf/2401.16945)
-  * Prelimnary version accepted at _The 41st International Conference on Machine Learning (ICML 2024)_.
+* Zhang, X., Qin, H. and Chou, M.C.. Online Resource Allocation with Non-Stationary Customers. [(SSRN)](https://papers.ssrn.com/abstract=5109873)
+  * Prelimnary version accepted at _The 41st International Conference on Machine Learning_[(ICML 2024)](https://arxiv.org/pdf/2401.16945).
 * Liu, J., Qin, H. and Chou, M.C.. Pricing Analytics with Shape-Restricted Demands. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4643942)
   * Under revision at _Operations Research_.
   * [Best Paper Award (Third Place)](https://iora.nus.edu.sg/news-p/phd-student-liu-jingren-asst-prof-qin-hanzhang-place-3rd-at-4th-national-conference-on-supply-chain-and-operation-management-shanghai/) at the 4th National Conference on Supply Chain and Operation Management.
