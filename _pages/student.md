@@ -20,7 +20,7 @@ Past
 ======
 * Sihan Wang, undergrad at USTC, summer intern (2024)
   * Placement: PhD student, Yale SOM
-* Sihan Wang, MS at USC/undergrad at NYU, research intern (2024)
+* Sihan Chen, MS at USC/undergrad at NYU, research intern (2024)
   * Placement: PhD student, CMU Heinz
 * Zhuoru Li, undergrad at Fudan University, summer intern (2024)
   * Placement: PhD student, Toronto Rotman
