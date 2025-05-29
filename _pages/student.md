@@ -18,6 +18,14 @@ Current
 
 Past
 ======
+* Sihan Wang, undergrad at USTC, summer intern (2024)
+  * Placement: PhD student, Yale SOM
+* Sihan Wang, MS at USC/undergrad at NYU, research intern (2024)
+  * Placement: PhD student, CMU Heinz
+* Zhuoru Li, undergrad at Fudan University, summer intern (2024)
+  * Placement: PhD student, Toronto Rotman
+* Congcong Zeng, MS at Hong Kong University/undergrad at Peking University, research intern at NUSRI-Chongqing (2024)
+  * Placement: PhD student, Purdue Krannert
 * Terrill Li, undergrad at Renming University, summer intern (2023)
   * Placement: PhD student, Purdue Krannert
 * Wenxuan Liu, undergrad at Tsinghua University, summer intern (2023)
