@@ -13,6 +13,7 @@ Prior to joining NUS, I spent one year at [Amazon SCOT](https://www.amazon.scien
 
 Selected Preprints and Working Papers
 ======
+* Liang, K., Lu, Y., Mao, J., Sun, S., Zeng, C., Jin, X., Qin, H., Zhu, R. and Teo, C.P.. LLM for Large-Scale Optimization Model Auto-Formulation: A Lightweight Few-Shot Learning Approach. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5329027)
 * Qin, H., Simchi-Levi, D. and Zhu, R.. Sailing through the Dark: Provably Sample-Efficient Inventory Control. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4652347)
   * Under revision at _Management Science_.
 * Li Z., Zhang, X., Qin, H. and Chou, M.C.. Adaptive Online Resource Allocation Schemes under General Non-Stationary Arrivals. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5112437)
@@ -20,7 +21,10 @@ Selected Preprints and Working Papers
 * Liu, J., Qin, H. and Chou, M.C.. Pricing Analytics with Shape-Restricted Demands. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4643942)
   * Under revision at _Operations Research_.
   * [Best Paper Award (Third Place)](https://iora.nus.edu.sg/news-p/phd-student-liu-jingren-asst-prof-qin-hanzhang-place-3rd-at-4th-national-conference-on-supply-chain-and-operation-management-shanghai/) at the 4th National Conference on Supply Chain and Operation Management.
+* Liu, W., Liu, X., Liu, M., Zhang, Z.H., Qin, H..Tackling Decision Dependency in Contextual Stochastic Optimization. 
+  * Under revision at _Production and Operations Management_.
 * Fan, X., Chen, B., Lennon Olsen, M., Qin, H. and Zhou, Z.. Don’t Follow RL Blindly: Lower Sample Complexity of Learning Optimal Inventory Control Policies with Fixed Ordering Costs. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4828001)
+  * Under revision at _Production and Operations Management_.
 * Hu, H., Qin, H. and Simchi-Levi, D.. Solving Large-Scale Vehicle Routing Problems with Unsplit Demands via Limited Information. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4271787)
 
 Selected Journal Publications
