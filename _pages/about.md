@@ -13,6 +13,8 @@ Prior to joining NUS, I spent one year at [Amazon SCOT](https://www.amazon.scien
 
 Selected Preprints and Working Papers
 ======
+* Lyu, H., Qin, H., Zheng, H.. On Fairness of Process Flexibility. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5611870)
+  * Second Place, POMS-HK International Best Student Paper Competition (Entrant: Hongyao Lyu), 2026.
 * Liang, K., Lu, Y., Mao, J., Sun, S., Zeng, C., Jin, X., Qin, H., Zhu, R. and Teo, C.P.. LLM for Large-Scale Optimization Model Auto-Formulation: A Lightweight Few-Shot Learning Approach. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5329027)
 * Qin, H., Simchi-Levi, D. and Zhu, R.. Sailing through the Dark: Provably Sample-Efficient Inventory Control. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4652347)
   * Under revision at _Management Science_.
@@ -21,17 +23,22 @@ Selected Preprints and Working Papers
 * Liu, J., Qin, H. and Chou, M.C.. Pricing Analytics with Shape-Restricted Demands. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4643942)
   * Under revision at _Operations Research_.
   * [Best Paper Award (Third Place)](https://iora.nus.edu.sg/news-p/phd-student-liu-jingren-asst-prof-qin-hanzhang-place-3rd-at-4th-national-conference-on-supply-chain-and-operation-management-shanghai/) at the 4th National Conference on Supply Chain and Operation Management.
-* Liu, W., Liu, X., Liu, M., Zhang, Z.H., Qin, H..Tackling Decision Dependency in Contextual Stochastic Optimization. 
+* Tan, Z., Yu, Y., Qin, H., Liu, L.. Beyond Traditional Transshipment: A Flexible Mechanism for Multi-Echelon Logistics System.
+  * Under revision at _Transportation Science_.
+* Liu, W., Liu, X., Liu, M., Zhang, Z.H., Qin, H.. Tackling Decision Dependency in Contextual Stochastic Optimization. 
   * Under revision at _Production and Operations Management_.
-* Fan, X., Chen, B., Lennon Olsen, M., Qin, H. and Zhou, Z.. Don’t Follow RL Blindly: Lower Sample Complexity of Learning Optimal Inventory Control Policies with Fixed Ordering Costs. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4828001)
-  * Accepted at _Production and Operations Management_.
 * Hu, H., Qin, H. and Simchi-Levi, D.. Solving Large-Scale Vehicle Routing Problems with Unsplit Demands via Limited Information. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4271787)
 
 Selected Journal Publications
 ======
+* Fan, X., Chen, B., Lennon Olsen, M., Qin, H. and Zhou, Z.. Don’t Follow RL Blindly: Lower Sample Complexity of Learning Optimal Inventory Control Policies with Fixed Ordering Costs. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4828001)
+  * Accepted at _Production and Operations Management_.
+* Zhou, J., Zhang, Y., Qin, H., Wang, j., Xing, L., Wang, L.. Data-Driven Multiobjective Multimodal Transportation Route Optimization in Hybrid Uncertain Environments.
+  * Accepted at _IEEE Transactions on Intelligent Transportation Systems_.
 * Qin, H., Simchi‐Levi, D., Ferer, R., Mays, J., Merriam, K., Forrester, M. and Hamrick, A., 2022. Trading safety stock for service response time in inventory positioning. _Production and Operations Management, 31(12), pp.4462-4474_. [(Journal)](https://journals.sagepub.com/doi/abs/10.1111/poms.13869) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4066119)
   * Collaboration with [Accenture](https://www.accenture.com/us-en) and [The Home Depot](https://www.homedepot.com/).
 * Ledvina, K., Qin, H., Simchi-Levi, D. and Wei, Y., 2022. A new approach for vehicle routing with stochastic demand: Combining route assignment with process flexibility. _Operations Research, 70(5), pp.2655-2673_. [(Journal)](https://pubsonline.informs.org/doi/abs/10.1287/opre.2022.2304) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3656374)
+  * Runner-Up, APORS Young Researcher Best Paper Award, 2025.
   * Winner, [INFORMS TSL (SIG) Outstanding Paper in Intelligent Transportation Systems](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Transportation-Science-and-Logistics-Section/SIG-Outstanding-Paper-in-Intelligent-Transportation-Systems), 2023.
 * Qin, H., Simchi-Levi, D. and Wang, L., 2022. Data-driven approximation schemes for joint pricing and inventory control models. _Management Science, 68(9), pp.6591-6609_. [(Journal)](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4212) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3354358)
 
