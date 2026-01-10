@@ -11,12 +11,16 @@ Current
 * PhDs
   * Yunhong Wang, PhD student at NUS ISEM
   * Yuxin Yuan, PhD student at NUS ISEM
-  * Jingren Liu, PhD student at NUS IORA (co-advised with Mabel C. Chou)
   * Weizhou Zhang, PhD student at NUS IORA (co-advised with Jussi Keppo)
-  * Xiaoyue Zhang, PhD student at NUS IORA (co-advised with Mabel C. Chou)
   * Guangyan Gan, PhD student at NTU School of Physical and Mathematical Sciences (co-advised with Zhenzhen Yan)
 
-Past
+Past (PhDs)
+* Jingren Liu, PhD student at NUS IORA (co-advised with Mabel C. Chou)
+  * Graduated in 2025. Current Placement: Research Fellow, NUS IORA & NUSRI-Chongqing.
+* Xiaoyue Zhang, PhD student at NUS IORA (co-advised with Mabel C. Chou)
+  * Graduated in 2025. Current Placement: Co-Founder of a startup company.
+
+Past (Undergrads/Masters)
 ======
 * Sihan Wang, undergrad at USTC, summer intern (2024)
   * Placement: PhD student, Yale School of Management
