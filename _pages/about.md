@@ -31,7 +31,7 @@ Selected Preprints and Working Papers
 
 Selected Journal Publications
 ======
-* Fan, X., Chen, B., Lennon Olsen, M., Qin, H. and Zhou, Z.. Don’t Follow RL Blindly: Lower Sample Complexity of Learning Optimal Inventory Control Policies with Fixed Ordering Costs. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4828001)
+* Fan, X., Chen, B., Olsen, T., Qin, H. and Zhou, Z.. Don’t Follow RL Blindly: Lower Sample Complexity of Learning Optimal Inventory Control Policies with Fixed Ordering Costs. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4828001)
   * Accepted at _Production and Operations Management_.
 * Zhou, J., Zhang, Y., Qin, H., Wang, j., Xing, L., Wang, L.. Data-Driven Multiobjective Multimodal Transportation Route Optimization in Hybrid Uncertain Environments.
   * Accepted at _IEEE Transactions on Intelligent Transportation Systems_.
