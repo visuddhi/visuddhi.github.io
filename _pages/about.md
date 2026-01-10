@@ -14,7 +14,7 @@ Prior to joining NUS, I spent one year at [Amazon SCOT](https://www.amazon.scien
 Selected Preprints and Working Papers
 ======
 * Lyu, H., Qin, H., Zheng, H.. On Fairness of Process Flexibility. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5611870)
-  * Second Place, POMS-HK International Best Student Paper Competition (Entrant: Hongyao Lyu), 2026.
+  * Second Place, POMS-HK Best Student Paper Competition (Entrant: Hongyao Lyu), 2026.
 * Liang, K., Lu, Y., Mao, J., Sun, S., Zeng, C., Jin, X., Qin, H., Zhu, R. and Teo, C.P.. LLM for Large-Scale Optimization Model Auto-Formulation: A Lightweight Few-Shot Learning Approach. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5329027)
 * Qin, H., Simchi-Levi, D. and Zhu, R.. Sailing through the Dark: Provably Sample-Efficient Inventory Control. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4652347)
   * Under revision at _Management Science_.
@@ -44,7 +44,7 @@ Selected Journal Publications
 
 PhD Thesis
 ======
-* Qin, H., 2022. Stochastic Control Through a Modern Lens: Applications in Supply Chain Analytics and Logistical Systems (Doctoral dissertation in Computational Science and Engineering, Massachusetts Institute of Technology).
+* Qin, H., 2022. Stochastic Control Through a Modern Lens: Applications in Supply Chain Analytics and Logistical Systems (Doctoral dissertation in Computational Science and Engineering, Massachusetts Institute of Technology). [(DSpace@MIT)](https://dspace.mit.edu/handle/1721.1/144691)
   * Winner, [MIT CCSE MathWorks Prize for Outstanding Doctoral Research](https://cse.mit.edu/research/mathworks-prizes/), 2022.
 
 <!-- 
