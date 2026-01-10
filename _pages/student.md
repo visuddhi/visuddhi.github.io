@@ -8,6 +8,8 @@ I have had the pleasure of working with the following brilliant talents.
 
 Current
 ======
+* Postdocs
+  * Jinbiao Chen, Postdoc at NUS ISEM (co-advised with Guanyi Wang)
 * PhDs
   * Yunhong Wang, PhD student at NUS ISEM
   * Yuxin Yuan, PhD student at NUS ISEM
