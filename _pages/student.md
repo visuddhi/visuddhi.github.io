@@ -17,6 +17,7 @@ Current
   * Guangyan Gan, PhD student at NTU School of Physical and Mathematical Sciences (co-advised with Zhenzhen Yan)
 
 Past (PhDs)
+======
 * Jingren Liu, PhD student at NUS IORA (co-advised with Mabel C. Chou)
   * Graduated in 2025. Current Placement: Research Fellow, NUS IORA & NUSRI-Chongqing.
 * Xiaoyue Zhang, PhD student at NUS IORA (co-advised with Mabel C. Chou)
