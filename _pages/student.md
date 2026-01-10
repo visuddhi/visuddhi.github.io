@@ -12,7 +12,7 @@ Current
   * Jinbiao Chen, Postdoc at NUS ISEM (co-advised with Guanyi Wang).
 * PhDs
   * Yunhong Wang, PhD student at NUS ISEM.
-  * Yuxin Yuan, PhD student at NUS ISEM.
+  * Yuxin Yuan, PhD student at NUS ISEM (co-advised with Bar Light).
   * Nigel Soh, PhD student at NUS ISEM.
   * Guoyun Zhang, PhD student at NUS ISEM.
   * Weizhou Zhang, PhD student at NUS IORA (co-advised with Jussi Keppo).
