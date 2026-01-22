@@ -15,7 +15,7 @@ Selected Preprints and Working Papers
 ======
 * Liu, J., Qin, H., Liu, J., Chou, M.C., Pang, J.. [(arXiv)](http://arxiv.org/abs/2601.12117)
 * Lyu, H., Qin, H., Zheng, H.. On Fairness of Process Flexibility. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5611870)
-  * Second Place, POMS-HK International Best Student Paper Competition (Entrant: Hongyao Lyu), 2026.
+  * Second Place, POMS-HK Best Student Paper Competition (Entrant: Hongyao Lyu), 2026.
 * Liang, K., Lu, Y., Mao, J., Sun, S., Zeng, C., Jin, X., Qin, H., Zhu, R. and Teo, C.P.. LLM for Large-Scale Optimization Model Auto-Formulation: A Lightweight Few-Shot Learning Approach. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5329027)
 * Qin, H., Simchi-Levi, D. and Zhu, R.. Sailing through the Dark: Provably Sample-Efficient Inventory Control. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4652347)
   * Under revision at _Management Science_.
@@ -32,7 +32,7 @@ Selected Preprints and Working Papers
 
 Selected Journal Publications
 ======
-* Fan, X., Chen, B., Lennon Olsen, M., Qin, H. and Zhou, Z.. Don’t Follow RL Blindly: Lower Sample Complexity of Learning Optimal Inventory Control Policies with Fixed Ordering Costs. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4828001)
+* Fan, X., Chen, B., Olsen, T., Qin, H. and Zhou, Z.. Don’t Follow RL Blindly: Lower Sample Complexity of Learning Optimal Inventory Control Policies with Fixed Ordering Costs. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4828001)
   * Accepted at _Production and Operations Management_.
 * Zhou, J., Zhang, Y., Qin, H., Wang, j., Xing, L., Wang, L.. Data-Driven Multiobjective Multimodal Transportation Route Optimization in Hybrid Uncertain Environments.
   * Accepted at _IEEE Transactions on Intelligent Transportation Systems_.
@@ -45,7 +45,7 @@ Selected Journal Publications
 
 PhD Thesis
 ======
-* Qin, H., 2022. Stochastic Control Through a Modern Lens: Applications in Supply Chain Analytics and Logistical Systems (Doctoral dissertation in Computational Science and Engineering, Massachusetts Institute of Technology).
+* Qin, H., 2022. Stochastic Control Through a Modern Lens: Applications in Supply Chain Analytics and Logistical Systems (Doctoral dissertation in Computational Science and Engineering, Massachusetts Institute of Technology). [(DSpace@MIT)](https://dspace.mit.edu/handle/1721.1/144691)
   * Winner, [MIT CCSE MathWorks Prize for Outstanding Doctoral Research](https://cse.mit.edu/research/mathworks-prizes/), 2022.
 
 <!-- 
