@@ -46,7 +46,7 @@ Selected Journal Publications
 PhD Thesis
 ======
 * Qin, H., 2022. Stochastic Control Through a Modern Lens: Applications in Supply Chain Analytics and Logistical Systems (Doctoral dissertation in Computational Science and Engineering, Massachusetts Institute of Technology). [(DSpace@MIT)](https://dspace.mit.edu/handle/1721.1/144691)
-  * Winner, [MIT CCSE MathWorks Prize for Outstanding Doctoral Research](https://cse.mit.edu/research/mathworks-prizes/), 2022.
+  * Winner, [MIT CCSE MathWorks Prize for Outstanding Doctoral Research](https://cse.mit.edu/research/ccse-mathworks-research-prize/), 2022.
 
 <!-- 
 Example: editing a markdown file for a talk
