@@ -13,7 +13,7 @@ Prior to joining NUS, I spent one year at [Amazon SCOT](https://www.amazon.scien
 
 Selected Preprints and Working Papers
 ======
-* Liu, J., Qin, H., Liu, J., Chou, M.C., Pang, J.. [(arXiv)](http://arxiv.org/abs/2601.12117)
+* Liu, J., Qin, H., Liu, J., Chou, M.C., Pang, J.. Offline Policy Learning with Weight Clipping and Heaviside Composite Optimization. [(arXiv)](http://arxiv.org/abs/2601.12117)
 * Lyu, H., Qin, H., Zheng, H.. On Fairness of Process Flexibility. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5611870)
   * Second Place, POMS-HK Best Student Paper Competition (Entrant: Hongyao Lyu), 2026.
 * Liang, K., Lu, Y., Mao, J., Sun, S., Zeng, C., Jin, X., Qin, H., Zhu, R. and Teo, C.P.. LLM for Large-Scale Optimization Model Auto-Formulation: A Lightweight Few-Shot Learning Approach. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5329027)
