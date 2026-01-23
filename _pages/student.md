@@ -21,9 +21,9 @@ Current
 Past (PhDs/Postdocs)
 ======
 * Jingren Liu, PhD at NUS IORA (co-advised with Mabel C. Chou).
-  * Graduated in 2025. Current Placement: Research Fellow, NUS IORA & NUSRI-Chongqing.
+  * Graduated in 2026. Current Placement: Research Fellow, NUS IORA & NUSRI-Chongqing.
 * Xiaoyue Zhang, PhD at NUS IORA (co-advised with Mabel C. Chou).
-  * Graduated in 2025. Current Placement: Co-Founder of a startup company.
+  * Graduated in 2026. Current Placement: Co-Founder of a startup company.
 
 Past (Undergrads/Masters)
 ======
