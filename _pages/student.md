@@ -14,7 +14,7 @@ Current
   * Yunhong Wang, PhD student at NUS ISEM.
   * Yuxin Yuan, PhD student at NUS ISEM (co-advised with Bar Light).
   * Nigel Soh, PhD student at NUS ISEM.
-  * Guoyun Zhang, PhD student at NUS ISEM.
+  * Guoyun Zhang, PhD student at NUS IORA.
   * Weizhou Zhang, PhD student at NUS IORA (co-advised with Jussi Keppo).
   * Guangyan Gan, PhD student at NTU School of Physical and Mathematical Sciences (co-advised with Zhenzhen Yan).
 
