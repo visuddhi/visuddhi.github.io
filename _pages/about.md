@@ -33,10 +33,8 @@ Selected Preprints and Working Papers
 
 Selected Journal Publications
 ======
-* Fan, X., Chen, B., Olsen, T., Qin, H. and Zhou, Z.. Don’t Follow RL Blindly: Lower Sample Complexity of Learning Optimal Inventory Control Policies with Fixed Ordering Costs. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4828001)
-  * Accepted at _Production and Operations Management_.
-* Zhou, J., Zhang, Y., Qin, H., Wang, j., Xing, L., Wang, L.. Data-Driven Multiobjective Multimodal Transportation Route Optimization in Hybrid Uncertain Environments.
-  * Accepted at _IEEE Transactions on Intelligent Transportation Systems_. [(Journal)](https://ieeexplore.ieee.org/document/11363924)
+* Zhou, J., Zhang, Y., Qin, H., Wang, j., Xing, L., Wang, L.. Data-Driven Multiobjective Multimodal Transportation Route Optimization in Hybrid Uncertain Environments, _IEEE Transactions on Intelligent Transportation Systems_, 2026. [(Journal)](https://ieeexplore.ieee.org/document/11363924)
+* Fan, X., Chen, B., Olsen, T., Qin, H. and Zhou, Z.. Don’t Follow RL Blindly: Lower Sample Complexity of Learning Optimal Inventory Control Policies with Fixed Ordering Costs, _Production and Operations Management_, 2025. [(Journal)](https://journals.sagepub.com/doi/abs/10.1177/10591478251378851)[(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4828001)
 * Qin, H., Simchi‐Levi, D., Ferer, R., Mays, J., Merriam, K., Forrester, M. and Hamrick, A., 2022. Trading safety stock for service response time in inventory positioning. _Production and Operations Management, 31(12), pp.4462-4474_. [(Journal)](https://journals.sagepub.com/doi/abs/10.1111/poms.13869) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4066119)
   * Collaboration with [Accenture](https://www.accenture.com/us-en) and [The Home Depot](https://www.homedepot.com/).
 * Ledvina, K., Qin, H., Simchi-Levi, D. and Wei, Y., 2022. A new approach for vehicle routing with stochastic demand: Combining route assignment with process flexibility. _Operations Research, 70(5), pp.2655-2673_. [(Journal)](https://pubsonline.informs.org/doi/abs/10.1287/opre.2022.2304) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3656374)
