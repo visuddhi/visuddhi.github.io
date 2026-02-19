@@ -29,7 +29,7 @@ Selected Preprints and Working Papers
   * Under revision at _Transportation Science_.
 * Liu, W., Liu, X., Liu, M., Zhang, Z.H., Qin, H.. Tackling Decision Dependency in Contextual Stochastic Optimization. 
   * Under revision at _Production and Operations Management_.
-* Hu, H., Qin, H. and Simchi-Levi, D.. Solving Large-Scale Vehicle Routing Problems with Unsplit Demands via Limited Information. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4271787)
+* Hu, H., Qin, H. and Simchi-Levi, D.. Unsplittable Capacitated Vehicle Routing with Limited Information: Local Flexibility Induces Global Optimality. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4271787)
 
 Selected Journal Publications
 ======
