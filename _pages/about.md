@@ -13,6 +13,7 @@ Prior to joining NUS, I spent one year at [Amazon SCOT](https://www.amazon.scien
 
 Selected Preprints and Working Papers
 ======
+* Zhu, D., Qin, H., Lee, C., Saito, Y., Kawashima, T., Fukumizu, K.. Huge-Scale Assortment Optimization with Customer Choice: A Parallel Primal-Dual Approach. [(arXiv)](https://arxiv.org/pdf/2602.22421)
 * Liu, J., Qin, H., Liu, J., Chou, M.C., Pang, J.. Offline Policy Learning with Weight Clipping and Heaviside Composite Optimization. [(arXiv)](http://arxiv.org/abs/2601.12117)
 * Tan, Z., Qin, H., Chen, Y., Liu, L., Yu, Y.. Online Stochastic Bin Packing with General Service Constraints. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4989464)
 * Lyu, H., Qin, H., Zheng, H.. On Fairness of Process Flexibility. [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5611870)
