@@ -27,7 +27,7 @@ Past (PhDs/Postdocs)
 Past (Undergrads/Masters)
 ======
 * Jierui (Jerry) Zuo, undergrad at Tsinghua University, research intern (2024-2025).
-  * Placement: PhD student, UW Foster.
+  * Placement: PhD student, University of Washington Foster.
 * Yunyujie Du, undergrad at SJTU, research intern (2025)
   * Placement: PhD student, Northwestern ISEM.
 * Yuhang Lu, MS at NUS/undergrad at XJTU, research intern (2023-2025).
